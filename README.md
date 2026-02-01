@@ -14,10 +14,8 @@ Both maps are built using Mapbox GL JS and are projected using the Albers Equal 
 
 - **Choropleth Map (Case Rates):**  
   https://farcoolius.github.io/covidcases/map1.html
-
 - **Proportional Symbol Map (Total Cases):**  
   https://farcoolius.github.io/covidcases/map2.html
-
 ---
 
 ## Map 1: Choropleth – COVID-19 Case Rates
